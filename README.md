@@ -66,8 +66,8 @@ Risk identification and scoring · risk register development · control gap anal
 
 ## 🔗 Related Projects
 
-- *Beyond Our Walls:* TPRM program proposal for Riverside Medical Center
-- [Healthcare Phishing Email Analyzer](https://github.com/YOUR-USERNAME/healthcare-phishing-analyzer): Python tool that detects phishing red flags (relates to risk R05)
+- [Beyond Our Walls](Beyond_Our_Walls_TPRM_Presentation.pdf): TPRM program proposal for Riverside Medical Center
+- [Healthcare Phishing Email Analyzer](https://github.com/TheTolulope/healthcare-phishing-analyzer): Python tool that detects phishing red flags (relates to risk R05)
 
 ## ⚠️ Disclaimer
 
